@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 LIFE (ALL START HERE).md",
+            "file": "Web Development/GIT/4 - Convert local folder to a git Repository.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 LIFE (ALL START HERE).md",
+                "file": "Web Development/GIT/4 - Convert local folder to a git Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 LIFE (ALL START HERE).md"
+                "file": "Web Development/GIT/4 - Convert local folder to a git Repository.md"
               }
             }
           }
@@ -127,6 +127,7 @@
   },
   "active": "863f6ae46f99cd46",
   "lastOpenFiles": [
+    "Web Development/GIT/4 - Convert local folder to a git Repository.md",
     "000 LIFE (ALL START HERE).md",
     "Web Development/GIT/Test Document.md",
     "Linux/PATH in Linux/PATH in Linux 🔗.md",
@@ -135,7 +136,6 @@
     "Linux/Linux 🔗.md",
     "Web Development/GIT/2 - Git Commands.md",
     "Web Development/GIT/1 - What is Git.md",
-    "Web Development/GIT/3 - Adding your SSH key to the ssh-agent.md",
-    "Web Development/GIT/4 - Convert local folder to a git Repository.md"
+    "Web Development/GIT/3 - Adding your SSH key to the ssh-agent.md"
   ]
 }
