@@ -1,0 +1,18 @@
+What is Desktop Environment in Linux?
+
+- A desktop environment is the bundle of components that provide you common graphical user interface (GUI) elements such as icons, toolbars, wallpapers, and desktop widgets. Thanks to the desktop environment, you can use Linux graphically using your mouse and keyboard like you do in other operating systems like Windows and macOS.
+
+- There are several desktop environments and these desktop environments determines what your Linux system looks like and how you interact with it.
+
+- Most of the desktop environments have their own set of integrated applications and utilities so that users get a uniform feel while using the OS. So, you get a file explorer, desktop search, menu of applications, wallpaper and screensaver utilities, text editors and more.
+
+- Without a desktop environment, your Linux system will just have a terminal like utility and you’ll have to interact it using commands only.
+
+![[Desktop Environment.png]]
+
+![[Command Line Interface.png]]
+
+1. [[04.1 - Gnome]]
+2. [[04.2 - XFCE]]
+3. [[04.3 - KDE Plasma 5]]
+4. 
