@@ -4,8 +4,6 @@ VA_PATH="/home/plr/Documents/obsidian-vaults"
 
 cd "$VA_PARH"
 
-git pull
-
 CHANGES_EXIST="$(git status --porcelain | wc -l)"
 
 if [ "$CHANGES_EXIST" -eq 0 ]; then
