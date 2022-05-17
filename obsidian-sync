@@ -2,7 +2,7 @@
 
 VA_PATH="/home/plr/Documents/obsidian-vaults"
 
-cd "$VA_PARH"
+cd "$VA_PATH"
 
 CHANGES_EXIST="$(git status --porcelain | wc -l)"
 
