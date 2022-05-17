@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MY-SECOND-BRAIN/Web Development/GIT/1 - What is Git.md",
+            "file": "MY-SECOND-BRAIN/Web Development/GIT/4 - Convert local folder to a git Repository.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MY-SECOND-BRAIN/Web Development/GIT/1 - What is Git.md",
+                "file": "MY-SECOND-BRAIN/Web Development/GIT/4 - Convert local folder to a git Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "dd657f2a2c0d41aa",
   "lastOpenFiles": [
+    "MY-SECOND-BRAIN/Web Development/GIT/4 - Convert local folder to a git Repository.md",
+    "MY-SECOND-BRAIN/Web Development/GIT/Git 🔗.md",
     "MY-SECOND-BRAIN/Web Development/GIT/1 - What is Git.md",
     "MY-SECOND-BRAIN/Web Development/Web Development 🔗.md",
     "MY-SECOND-BRAIN/000 LIFE (ALL START HERE).md",
-    "MY-SECOND-BRAIN/Web Development/GIT/Test.md",
-    "MY-SECOND-BRAIN/Web Development/GIT/Git 🔗.md",
-    "MY-SECOND-BRAIN/Web Development/GIT/4 - Convert local folder to a git Repository.md"
+    "MY-SECOND-BRAIN/Web Development/GIT/Test.md"
   ]
 }
