@@ -1,3 +1,2 @@
-
-This is a test note.
+This is test note.
 
