@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Manage Dot Files/9  - Stow command.md",
+            "file": "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Manage Dot Files/9  - Stow command.md",
+                "file": "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Manage Dot Files/9  - Stow command.md"
+                "file": "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md"
               }
             }
           }
@@ -127,15 +127,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
+    "Linux/How to clean Arch Linux/6  - Find the largest files and directories.md",
+    "Linux/How to clean Arch Linux/7 - Disk cleaning programs.md",
+    "Linux/PATH in Linux/2 - Adding a Directory to your $PATH.md",
+    "Linux/PATH in Linux/1 - What is $PATH Environmental Variable.md",
+    "Web Development/Web Development 🔗.md",
+    "000 LIFE (ALL START HERE).md",
     "Linux/Manage Dot Files/9  - Stow command.md",
     "Linux/Arch Install Guide/22 - General Recommendations/22.1 - Fonts.md",
-    "Linux/Linux Journey/2 - Command Line/10 - cp (Copy).md",
-    "000 LIFE (ALL START HERE).md",
-    "Web Development/Web Development 🔗.md",
-    "Web Development/GIT/4 - Convert local folder to a git Repository.md",
-    "Web Development/GIT/3 - Adding your SSH key to the ssh-agent.md",
-    "Web Development/GIT/2 - Git Commands.md",
-    "Web Development/GIT/1 - What is Git.md",
-    "Web Development/GIT/Git 🔗.md"
+    "Linux/Linux Journey/2 - Command Line/10 - cp (Copy).md"
   ]
 }
