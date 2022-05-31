@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Arch Install Guide/20 - Aur Helper.md",
+            "file": "Linux/Arch Install Guide/19 - Install Desktop Environment & Fixers/19.9 - Configure custom action in thunar.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Install Guide/20 - Aur Helper.md",
+                "file": "Linux/Arch Install Guide/19 - Install Desktop Environment & Fixers/19.9 - Configure custom action in thunar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Install Guide/20 - Aur Helper.md"
+                "file": "Linux/Arch Install Guide/19 - Install Desktop Environment & Fixers/19.9 - Configure custom action in thunar.md"
               }
             }
           }
@@ -127,8 +127,8 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
-    "Linux/Arch Install Guide/20 - Aur Helper.md",
     "Linux/Arch Install Guide/19 - Install Desktop Environment & Fixers/19.9 - Configure custom action in thunar.md",
+    "Linux/Arch Install Guide/20 - Aur Helper.md",
     "Linux/Arch Install Guide/19 - Install Desktop Environment & Fixers/19.8  - Set Global Kvantum themes to QT Apps.md",
     "Linux/Manage Dot Files/9  - Stow command.md",
     "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
