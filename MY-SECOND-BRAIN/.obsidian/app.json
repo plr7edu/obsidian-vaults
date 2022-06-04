@@ -4,5 +4,6 @@
   "trashOption": "local",
   "attachmentFolderPath": "Attachments 📌",
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "communityThemeSortOrder": "download"
 }
