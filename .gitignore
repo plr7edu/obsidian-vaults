@@ -1,2 +1,8 @@
 # Ignore .obsidian cache folder
 .obsidian/cache
+
+#Trash
+#.trash/
+
+#Macos
+#DS_Store

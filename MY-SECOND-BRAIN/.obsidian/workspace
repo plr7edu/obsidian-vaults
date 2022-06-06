@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Arch Install Guide/16 - Reboot.md",
+            "file": "Android/Use Termux in Termial Using SSH Server.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Install Guide/16 - Reboot.md",
+                "file": "Android/Use Termux in Termial Using SSH Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Install Guide/16 - Reboot.md"
+                "file": "Android/Use Termux in Termial Using SSH Server.md"
               }
             }
           }
@@ -127,15 +127,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
-    "Linux/Arch Install Guide/16 - Reboot.md",
-    "Linux/PATH in Linux/1 - What is $PATH Environmental Variable.md",
-    "Web Development/Web Development 🔗.md",
+    "Android/Use Termux in Termial Using SSH Server.md",
+    "Android/Android 🔗.md",
     "000 LIFE (ALL START HERE).md",
-    "Web Development/GIT/4 - Convert local folder to a git Repository.md",
+    "Web Development/Web Development 🔗.md",
+    "Linux/Linux 🔗.md",
+    "English/English 🔗.md",
+    "Andorid.md",
+    "Web Development/GIT/How to manage multiple GitHub accounts on a single machine with SSH keys.md",
     "Web Development/GIT/Git 🔗.md",
-    "Linux/Arch Install Guide/4 - Update the system.md",
-    "Linux/Arch Install Guide/2 - Verify the boot mode.md",
-    "Linux/Arch Install Guide/22 - General Recommendations/22.1 - Fonts.md",
-    "Fitness/Fitness 🔗.md"
+    "Web Development/GIT/1 - What is Git.md"
   ]
 }

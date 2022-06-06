@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "000 LIFE",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 15001189
       }
+    },
+    {
+      "query": "path:Android",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 0.351190476190476,
   "linkDistance": 161,
-  "scale": 0.12078496642637936,
-  "close": false
+  "scale": 0.10098090149942528,
+  "close": true
 }

@@ -2,7 +2,7 @@
 
 -   Showing the size of downloaded packages in my Arch Linux
 
-### `du -sh /var/cache/pacman/pkg
+### ``du -sh /var/cache/pacman/pkg`
 
 ![[Untitled picture 1.png]]
 
