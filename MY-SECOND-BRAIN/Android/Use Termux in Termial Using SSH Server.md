@@ -35,7 +35,7 @@
 
 7. Type the command to connect your termux with your Terminal
 
-> ssh username@your-Ip-asdress -p portnumber
+> ssh username@your-Ip-address -p portnumber
 
 Examaple : 
 
