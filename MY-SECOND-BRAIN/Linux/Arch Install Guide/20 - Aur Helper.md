@@ -16,4 +16,5 @@
 
 ## `makepkg -si
 
-[[21 - Adding the Windows boot option to grub]]
+[[21 - Desktop Environment Fixers 🔗]]
+

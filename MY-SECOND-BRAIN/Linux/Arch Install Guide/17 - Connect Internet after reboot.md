@@ -62,4 +62,5 @@ sudo nmcli –ask dev wifi connect PLR_WIFI
 
 ### `nmcli con up ssid/uuid
 
-[[18.1 - Activating Swap File]]
+[[18 - Post Install Tweaks 🔗]]
+

@@ -19,7 +19,7 @@
 18. [[18 - Post Install Tweaks 🔗]]
 19. [[19 - Install Desktop Environment & Fixers 🔗]]
 20. [[20 - Aur Helper]]
-21. [[21 - Adding the Windows boot option to grub]]
-22. [[22 - General Recommendations 🔗]]
-23. [[23 - Install Window Manager 🔗]]
+21. [[22 - Adding the Windows boot option to grub]]
+22. [[23 - General Recommendations 🔗]]
+23. [[24 - Install Window Manager 🔗]]
 
