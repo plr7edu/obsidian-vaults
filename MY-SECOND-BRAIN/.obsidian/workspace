@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Arch Install Guide/23 - General Recommendations/23.2  - Install Necessary Applications with paru.md",
+            "file": "Linux/Manage Dot Files/9  - Stow command.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Install Guide/23 - General Recommendations/23.2  - Install Necessary Applications with paru.md",
+                "file": "Linux/Manage Dot Files/9  - Stow command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Install Guide/23 - General Recommendations/23.2  - Install Necessary Applications with paru.md"
+                "file": "Linux/Manage Dot Files/9  - Stow command.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "Linux/Manage Dot Files/9  - Stow command.md",
     "Linux/Arch Install Guide/23 - General Recommendations/23.2  - Install Necessary Applications with paru.md",
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/27.9 - Fix GStreamer installation is missing a plug-in. (Strawberry Audio Problem).md",
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/27.8 - Change System Console Font (TTY).md",
@@ -134,7 +135,6 @@
     "Linux/Arch Install Guide/14 - Configure The System/14.3 - Install Necessary Packages.md",
     "Linux/Arch Install Guide/13 - Install the base packages.md",
     "Linux/Arch Install Guide/17 - Connect Internet after reboot.md",
-    "Linux/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
-    "Linux/Arch Install Guide/18 - Post Install Tweaks/18 - Post Install Tweaks 🔗.md"
+    "Linux/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md"
   ]
 }
