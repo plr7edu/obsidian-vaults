@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.5 - Configure custom action in thunar.md",
+            "file": "Linux/Arch Install Guide/14 - Configure The System/14.7 - Root Password & Standard User.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.5 - Configure custom action in thunar.md",
+                "file": "Linux/Arch Install Guide/14 - Configure The System/14.7 - Root Password & Standard User.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.5 - Configure custom action in thunar.md"
+                "file": "Linux/Arch Install Guide/14 - Configure The System/14.7 - Root Password & Standard User.md"
               }
             }
           },
@@ -126,6 +126,8 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "Linux/Arch Install Guide/14 - Configure The System/14.7 - Root Password & Standard User.md",
+    "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.5 - Configure custom action in thunar.md",
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.4  - Set Global Kvantum themes to QT Apps.md",
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.3 - Install Archive Manager & Archive Support.md",
@@ -133,8 +135,6 @@
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.1 - Set Default Sound Card.md",
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21 - Desktop Environment Fixers 🔗.md",
     "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.4 - XFCE Sound & Applet.md",
-    "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.3 - XFCE Network Manager Applet & Editor.md",
-    "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.2 - XFCE Login Manager (Lightdm).md",
-    "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.1 - XFCE Desktop Environment (Install).md"
+    "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.3 - XFCE Network Manager Applet & Editor.md"
   ]
 }
