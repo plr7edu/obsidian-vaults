@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.3 - Install Archive Manager & Archive Support.md",
-            "mode": "source",
-            "source": false
+            "file": "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.2 - XFCE Login Manager (Lightdm).md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useradd",
+                "query": "lightdm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.3 - Install Archive Manager & Archive Support.md",
+                "file": "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.2 - XFCE Login Manager (Lightdm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.3 - Install Archive Manager & Archive Support.md"
+                "file": "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.2 - XFCE Login Manager (Lightdm).md"
               }
             }
           },
@@ -126,15 +127,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
-    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.3 - Install Archive Manager & Archive Support.md",
+    "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.2 - XFCE Login Manager (Lightdm).md",
+    "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.1 - XFCE Desktop Environment (Install).md",
+    "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19 - Install Desktop Environment & Fixers 🔗.md",
+    "Linux/Arch Install Guide/9 - Format & mount logical volumes (LVM).md",
     "Linux/Arch Install Guide/8 - Active LVM configuration.md",
-    "Linux/Arch Install Guide/23 - General Recommendations/23.2  - Install Necessary Applications with paru.md",
-    "Linux/Manage Dot Files/9  - Stow command.md",
-    "Linux/Linux Journey/2 - Command Line/10 - cp (Copy).md",
-    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/27.10 - Add Arcolinux-Betterlockscreen for xfce.md",
-    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/27.9 - Fix GStreamer installation is missing a plug-in. (Strawberry Audio Problem).md",
-    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.5 - Configure custom action in thunar.md",
-    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.6 - Install Gnome Keyring.md",
-    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.7 - Change Cursor theme on login.md"
+    "Linux/Arch Install Guide/7 - Create LVM partition.md",
+    "Linux/Arch Install Guide/6- Format the partition.md",
+    "Linux/Arch Install Guide/5 - Partition the disks.md",
+    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.3 - Install Archive Manager & Archive Support.md",
+    "Linux/Arch Install Guide/23 - General Recommendations/23.2  - Install Necessary Applications with paru.md"
   ]
 }

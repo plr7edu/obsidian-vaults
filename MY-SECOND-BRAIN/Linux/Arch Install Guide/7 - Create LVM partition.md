@@ -1,4 +1,4 @@
-1. Create Physical Volume on the LVM partition
+ 1. Create Physical Volume on the LVM partition
 
 > pvcreate partiton
 
