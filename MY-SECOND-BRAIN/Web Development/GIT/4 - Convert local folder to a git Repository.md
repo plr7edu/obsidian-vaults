@@ -1,2 +1,1 @@
-This is test note.
 
