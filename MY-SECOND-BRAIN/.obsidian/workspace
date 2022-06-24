@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Development/GIT/4 - Convert local folder to a git Repository.md",
+            "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.6 - Install Gnome Keyring.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/GIT/4 - Convert local folder to a git Repository.md",
+                "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.6 - Install Gnome Keyring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/GIT/4 - Convert local folder to a git Repository.md"
+                "file": "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.6 - Install Gnome Keyring.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.6 - Install Gnome Keyring.md",
     "Web Development/GIT/4 - Convert local folder to a git Repository.md",
     "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
     "Linux/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.2 - XFCE Login Manager (Lightdm).md",
@@ -134,7 +135,6 @@
     "Linux/Arch Install Guide/9 - Format & mount logical volumes (LVM).md",
     "Linux/Arch Install Guide/8 - Active LVM configuration.md",
     "Linux/Arch Install Guide/7 - Create LVM partition.md",
-    "Linux/Arch Install Guide/6- Format the partition.md",
-    "Linux/Arch Install Guide/5 - Partition the disks.md"
+    "Linux/Arch Install Guide/6- Format the partition.md"
   ]
 }
