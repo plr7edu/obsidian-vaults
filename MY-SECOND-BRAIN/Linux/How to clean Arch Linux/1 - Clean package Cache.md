@@ -10,7 +10,7 @@
 
 -   One option is to remove cached packages that are not currently installed :-
 
-#### `sudo pacman –Sc
+#### `sudo pacman –Sc`
 
 ![[Untitled picture1 1.png]]
 
