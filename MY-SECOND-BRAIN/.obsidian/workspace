@@ -128,10 +128,10 @@
   "lastOpenFiles": [
     "Linux/How to clean Arch Linux/1 - Clean package Cache.md",
     "Linux/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
-    "Linux/How to clean Arch Linux/6  - Find the largest files and directories.md",
-    "Linux/How to clean Arch Linux/5 - Remove duplicates, empty files, empty directories and broken symlinks.md",
     "Linux/How to clean Arch Linux/4 - Remove old config files.md",
     "Linux/How to clean Arch Linux/3 - Clean the Cache in your home directory.md",
+    "Linux/How to clean Arch Linux/6  - Find the largest files and directories.md",
+    "Linux/How to clean Arch Linux/5 - Remove duplicates, empty files, empty directories and broken symlinks.md",
     "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/27.8 - Change System Console Font (TTY).md",
     "Linux/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
     "Android/Use Termux in Termial Using SSH Server.md",
