@@ -126,15 +126,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
-    "Linux/Arch Install Guide/14 - Configure The System/14.4 - Install Network Packages (Ethernet & WIFI).md",
-    "Linux/Arch Install Guide/14 - Configure The System/14.3 - Install Necessary Packages.md",
-    "Linux/Arch Install Guide/14 - Configure The System/14.2 - Install Standard Linux Kernel + LTS.md",
-    "Linux/Arch Install Guide/14 - Configure The System/14.1 - Chroot.md",
-    "Linux/Arch Install Guide/16 - Reboot.md",
-    "Linux/Arch Install Guide/17 - Connect Internet after reboot.md",
-    "Linux/Arch Install Guide/3 - Connect to the Internet.md",
-    "Linux/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/27.8 - Change System Console Font (TTY).md",
-    "Linux/Manage Dot Files/9  - Stow command.md",
-    "Linux/How to clean Arch Linux/1 - Clean package Cache.md"
+    "Linux/Linux Journey/2 - Command Line/10 - cp (Copy).md",
+    "Linux/Linux Journey/2 - Command Line/07 - cat.md",
+    "Linux/Linux Journey/2 - Command Line/03 - cd (Change Directory).md",
+    "Linux/Linux Journey/2 - Command Line/13 - rm (Remove).md",
+    "Linux/Linux Journey/2 - Command Line/2 -  Command Line 🔗.md",
+    "Linux/Linux Journey/Linux Journey 🔗.md",
+    "Linux/Linux 🔗.md",
+    "Web Development/GIT/How to manage multiple GitHub accounts on a single machine with SSH keys.md",
+    "Linux/Manage Dot Files/6  - Introduction of SSH Key Types.md",
+    "Web Development/GIT/3 - Adding your SSH key to the ssh-agent.md"
   ]
 }
