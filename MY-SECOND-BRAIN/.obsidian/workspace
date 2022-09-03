@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "English/English 🔗.md",
+            "file": "Android/Use Termux in Termial Using SSH Server.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458
+    "width": 477.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/English 🔗.md",
+                "file": "Android/Use Termux in Termial Using SSH Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/English 🔗.md"
+                "file": "Android/Use Termux in Termial Using SSH Server.md"
               }
             }
           },
@@ -127,14 +127,14 @@
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
     "Linux/Linux Journey/2 - Command Line/18 - alias.md",
-    "Linux/Linux Journey/3 - Text (Manipulation) - Part 1 (Text-Fu)/1 - stdout (Standard Out).md",
+    "Android/Android 🔗.md",
     "Linux/Linux 🔗.md",
+    "Android/Use Termux in Termial Using SSH Server.md",
+    "000 LIFE (ALL START HERE).md",
+    "English/English 🔗.md",
+    "Linux/Linux Journey/3 - Text (Manipulation) - Part 1 (Text-Fu)/1 - stdout (Standard Out).md",
     "Linux/Linux Journey/1 - Getting Started/02 - A Linux System.md",
     "Linux/Linux Journey/1 - Getting Started/01 - History.md",
-    "Linux/Linux Journey/1 - Getting Started/1 - Getting Started 🔗.md",
-    "Linux/Linux Journey/Linux Journey 🔗.md",
-    "Fitness/Jump Rope/10 Min Jump Rope Workout.md",
-    "Fitness/Fitness 🔗.md",
-    "Web Development/GIT/Gitignore.md"
+    "Linux/Linux Journey/1 - Getting Started/1 - Getting Started 🔗.md"
   ]
 }
