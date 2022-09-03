@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Android/Use Termux in Termial Using SSH Server.md",
+            "file": "000 LIFE (ALL START HERE).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/Use Termux in Termial Using SSH Server.md",
+                "file": "000 LIFE (ALL START HERE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/Use Termux in Termial Using SSH Server.md"
+                "file": "000 LIFE (ALL START HERE).md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
-    "Linux/Linux Journey/2 - Command Line/18 - alias.md",
-    "Android/Android 🔗.md",
-    "Linux/Linux 🔗.md",
-    "Android/Use Termux in Termial Using SSH Server.md",
+    "NETWORKING/NETWORKING🔗.md",
     "000 LIFE (ALL START HERE).md",
-    "English/English 🔗.md",
-    "Linux/Linux Journey/3 - Text (Manipulation) - Part 1 (Text-Fu)/1 - stdout (Standard Out).md",
-    "Linux/Linux Journey/1 - Getting Started/02 - A Linux System.md",
-    "Linux/Linux Journey/1 - Getting Started/01 - History.md",
-    "Linux/Linux Journey/1 - Getting Started/1 - Getting Started 🔗.md"
+    "LINUX/LINUX 🔗.md",
+    "ANDROID/ANDROID 🔗.md",
+    "LINUX/Linux Journey/3 - Text (Manipulation) - Part 1 (Text-Fu)/2 - stdin (Standard In).md",
+    "ANDROID/Termux/Termux 🔗.md",
+    "LINUX/PATH in Linux/PATH in Linux 🔗.md",
+    "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
+    "WEB DEVELOPMENT/Git/Git 🔗.md",
+    "FITNESS/FITNESS 🔗.md"
   ]
 }

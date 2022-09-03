@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "000 LIFE",
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:NETWORKING",
+      "color": {
+        "a": 1,
+        "rgb": 14763264
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 0.351190476190476,
   "linkDistance": 161,
-  "scale": 0.2957202604387529,
-  "close": true
+  "scale": 0.17280653486124095,
+  "close": false
 }
