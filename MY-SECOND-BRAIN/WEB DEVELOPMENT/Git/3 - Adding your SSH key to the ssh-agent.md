@@ -1,3 +1,5 @@
+
+
 [[6  - Introduction of SSH Key Types]]
 
 - Before adding a new SSH key to the ssh-agent to manage your keys, you should have checked for existing SSH keys and generated a new SSH key.
