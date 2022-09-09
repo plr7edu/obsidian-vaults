@@ -127,14 +127,14 @@
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
     "WEB DEVELOPMENT/Git/2 - Git Commands.md",
-    "WEB DEVELOPMENT/Git/4 - Convert local folder to a git Repository.md",
     "WEB DEVELOPMENT/Git/3 - Adding your SSH key to the ssh-agent.md",
-    "WEB DEVELOPMENT/Git/1 - What is Git.md",
     "LINUX/Manage Dot Files/5  - Setup Git for using GitLab (Including SSH Key).md",
-    "LINUX/Manage Dot Files/6  - Introduction of SSH Key Types.md",
     "LINUX/Manage Dot Files/4  - Create symbolic links to the original config file locations  (Manually).md",
     "LINUX/Manage Dot Files/3 - How to manage dotfiles.md",
+    "LINUX/Manage Dot Files/1  - The basics of dotfiles.md",
     "LINUX/Manage Dot Files/2 - Common dotfiles.md",
-    "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md"
+    "LINUX/Manage Dot Files/7 - Dotfiles Repository.md",
+    "LINUX/Manage Dot Files/6  - Introduction of SSH Key Types.md",
+    "WEB DEVELOPMENT/Git/4 - Convert local folder to a git Repository.md"
   ]
 }

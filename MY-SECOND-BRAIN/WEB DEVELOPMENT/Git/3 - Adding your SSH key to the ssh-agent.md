@@ -6,7 +6,7 @@
 
 1. Start the ssh-agent in the background.
 
-> $ eval "$(ssh-agent -s)"
+> eval "$(ssh-agent -s)"
 
 ![[ssh-agent.png]]
 
