@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 LIFE (ALL START HERE).md",
+            "file": "WEB DEVELOPMENT/Git/Git 🔗.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 LIFE (ALL START HERE).md",
+                "file": "WEB DEVELOPMENT/Git/Git 🔗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 LIFE (ALL START HERE).md"
+                "file": "WEB DEVELOPMENT/Git/Git 🔗.md"
               }
             }
           },
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b957ad86d13e1d8",
+  "active": "443013223a3cd4c9",
   "lastOpenFiles": [
     "WEB DEVELOPMENT/Git/2 - Git Commands.md",
-    "LINUX/Manage Dot Files/9  - Stow command.md",
+    "WEB DEVELOPMENT/Git/1 - What is Git.md",
     "WEB DEVELOPMENT/Git/3 - Adding your SSH key to the ssh-agent.md",
-    "LINUX/Manage Dot Files/5  - Setup Git for using GitLab (Including SSH Key).md",
-    "LINUX/Manage Dot Files/4  - Create symbolic links to the original config file locations  (Manually).md",
-    "LINUX/Manage Dot Files/3 - How to manage dotfiles.md",
-    "LINUX/Manage Dot Files/1  - The basics of dotfiles.md",
-    "LINUX/Manage Dot Files/2 - Common dotfiles.md",
-    "LINUX/Manage Dot Files/7 - Dotfiles Repository.md",
-    "LINUX/Manage Dot Files/6  - Introduction of SSH Key Types.md"
+    "WEB DEVELOPMENT/Git/How to manage multiple GitHub accounts on a single machine with SSH keys.md",
+    "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
+    "ENGLISH/ENGLISH 🔗.md",
+    "NETWORKING/FTP vs SFTP.md",
+    "WEB DEVELOPMENT/Git/Git 🔗.md",
+    "000 LIFE (ALL START HERE).md",
+    "LINUX/Manage Dot Files/9  - Stow command.md"
   ]
 }
