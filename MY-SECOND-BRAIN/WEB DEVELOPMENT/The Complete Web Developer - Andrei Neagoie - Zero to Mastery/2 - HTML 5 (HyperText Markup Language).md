@@ -86,3 +86,53 @@
 <li>Ball</li><hr>
 <li>Bat</li>
 
+
+## Image Tag 
+
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The img element</h1>
+
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+</body>
+</html>
+
+```
+
+
+![[2022-10-03_15-23.png|300]]
+
+
+- Some html Tags have attributes. They add special properties to html tag.
+
+
+Example =
+
+| Attributes | Value | Description |
+| ----------|----------|------------------|
+| src | URL | Specifies the path to the image |
+| alt | Text | Specifies an alternate text for an image |
+| width | pixels  | Specifies the width of an image|
+| height | pixels | Specifies the height of an image |
+
+
+# Html Anchor Tag
+
+- The `<a>` tag defines a hyperlink, which is used to link from one page to another.
+
+- The most important attribute of the `<a>` element is the `href` attribute, which indicates the link's destination.
+
+`<a href="nextpage.html">Next Page</a>`
+
+<a href="nextpage.html">Next Page</a>
+
+| Attributes | Value | Description |
+| ----------|----------|------------------|
+| href | URL | Specifies the URL of the page the link goes to |
+
+
+

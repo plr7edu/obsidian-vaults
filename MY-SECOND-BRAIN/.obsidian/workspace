@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/2 - HTML 5 (HyperText Markup Language).md",
+            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/2 - HTML 5 (HyperText Markup Language).md",
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/2 - HTML 5 (HyperText Markup Language).md"
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md"
               }
             }
           },
