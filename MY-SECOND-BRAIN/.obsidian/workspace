@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md",
+            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/3 - Advanced HTML 5.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md",
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/3 - Advanced HTML 5.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md"
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/3 - Advanced HTML 5.md"
               }
             }
           },
@@ -124,17 +124,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2b957ad86d13e1d8",
+  "active": "443013223a3cd4c9",
   "lastOpenFiles": [
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.5 - HTML <nav> Element.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.6 - HTML <aside> Element.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.7 - HTML <figure> and <figcaption> Elements.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/The Complete Web Developer - Andrei Neagole - Zero to Mastery 🔗.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/3 - Advanced HTML 5.md",
-    "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4 - HTML 5 Semantic Elements 🔗.md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.3 - HTML <header> Element.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.2 - HTML <article> Element.md"
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.7 - HTML <figure> and <figcaption> Elements.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/3 - Advanced HTML 5.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/2 - HTML 5 (HyperText Markup Language).md",
+    "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.6 - HTML <aside> Element.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/The Complete Web Developer - Andrei Neagole - Zero to Mastery 🔗.md",
+    "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md"
   ]
 }
