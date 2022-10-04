@@ -8,13 +8,6 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "000 LIFE",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:English",
       "color": {
         "a": 1,
@@ -55,6 +48,13 @@
         "a": 1,
         "rgb": 14763264
       }
+    },
+    {
+      "query": "path: 000 LIFE (ALL START HERE)",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 0.351190476190476,
   "linkDistance": 161,
-  "scale": 0.10098090149942245,
+  "scale": 0.2066968228798352,
   "close": false
 }

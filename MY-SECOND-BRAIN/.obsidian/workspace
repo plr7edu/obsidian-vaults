@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md",
+            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 523.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -77,9 +77,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md"
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md"
               }
             }
           },
@@ -117,24 +117,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "443013223a3cd4c9",
+  "active": "2b957ad86d13e1d8",
   "lastOpenFiles": [
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.5 - HTML <nav> Element.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.6 - HTML <aside> Element.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.7 - HTML <figure> and <figcaption> Elements.md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/The Complete Web Developer - Andrei Neagole - Zero to Mastery 🔗.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/2 - HTML 5 (HyperText Markup Language).md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/1 - How the internet works.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/3 - Advanced HTML 5.md",
     "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
-    "LINUX/Manage Dot Files/5  - Setup Git for using GitLab (Including SSH Key).md",
-    "LINUX/Manage Dot Files/2 - Common dotfiles.md",
-    "LINUX/Manage Dot Files/4  - Create symbolic links to the original config file locations  (Manually).md",
-    "LINUX/Manage Dot Files/1  - The basics of dotfiles.md",
-    "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md",
-    "LINUX/Manage Dot Files/Manage Dot Files 🔗.md"
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4 - HTML 5 Semantic Elements 🔗.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.4 - HTML <footer> Element.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.3 - HTML <header> Element.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie - Zero to Mastery/4 - HTML 5 Semantic Elements/4.2 - HTML <article> Element.md"
   ]
 }
