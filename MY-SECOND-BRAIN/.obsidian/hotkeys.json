@@ -2,7 +2,7 @@
   "editor:toggle-code": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "C"
     }
@@ -31,6 +31,14 @@
         "Shift"
       ],
       "key": "H"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "S"
     }
   ]
 }
