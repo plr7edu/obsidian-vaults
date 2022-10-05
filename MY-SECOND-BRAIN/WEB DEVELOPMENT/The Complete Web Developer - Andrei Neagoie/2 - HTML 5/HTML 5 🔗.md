@@ -6,6 +6,6 @@
 
 
 ---
-Back = [[The Complete Web Developer - Andrei Neagole - Zero to Mastery 🔗]]
+Back = [[The Complete Web Developer - Andrei Neagole  🔗]]
 
 

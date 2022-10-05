@@ -7,7 +7,7 @@
 
 #### - Full Stack Development
 
-1. [[The Complete Web Developer - Andrei Neagole - Zero to Mastery 🔗]]
+1. [[The Complete Web Developer - Andrei Neagole  🔗]]
 2. 
 
 -------------------------
