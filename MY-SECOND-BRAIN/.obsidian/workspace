@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LINUX/Arch Install Guide/12 - Select the mirrors.md",
+            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Arch Install Guide/12 - Select the mirrors.md",
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/Arch Install Guide/12 - Select the mirrors.md"
+                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.1 - How to add CSS (Cascading Style Sheets).md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3 - CSS 🔗.md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
+    "LINUX/Arch Install Guide/12 - Select the mirrors.md",
     "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
     "LINUX/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.1 - Set Default Sound Card.md",
     "LINUX/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.4 - XFCE Sound & Applet.md",
     "LINUX/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.3 - XFCE Network Manager Applet & Editor.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.1 - How to add CSS (Cascading Style Sheets).md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3 - CSS 🔗.md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/2 - HTML 5/2.1 - HTML 5  Tags (HyperText Markup Language).md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/2 - HTML 5/2.2 - Advanced HTML 5.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/2 - HTML 5/HTML 5 🔗.md"
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/2 - HTML 5/2.2 - Advanced HTML 5.md"
   ]
 }
