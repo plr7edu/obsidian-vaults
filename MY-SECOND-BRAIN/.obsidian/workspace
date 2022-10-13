@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
+            "file": "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
+                "file": "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md"
+                "file": "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "HEALTH & FITNESS/Jamp Rope Schedule.md",
+    "HEALTH & FITNESS/HEALTH & FITNESS 🔗.md",
+    "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md",
+    "000 LIFE (ALL START HERE).md",
+    "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
+    "HEALTH & FITNESS/Jump Rope/10 Min Jump Rope Workout.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.1 - How to add CSS (Cascading Style Sheets).md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3 - CSS 🔗.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
-    "LINUX/Arch Install Guide/12 - Select the mirrors.md",
-    "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
-    "LINUX/Arch Install Guide/21 - Desktop Environment Fixers (XFCE)/21.1 - Set Default Sound Card.md",
-    "LINUX/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.4 - XFCE Sound & Applet.md",
-    "LINUX/Arch Install Guide/19 - Install Desktop Environment &  Necessary Packages/19.3 - XFCE Network Manager Applet & Editor.md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/2 - HTML 5/2.1 - HTML 5  Tags (HyperText Markup Language).md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/2 - HTML 5/2.2 - Advanced HTML 5.md"
+    "LINUX/Arch Install Guide/12 - Select the mirrors.md"
   ]
 }

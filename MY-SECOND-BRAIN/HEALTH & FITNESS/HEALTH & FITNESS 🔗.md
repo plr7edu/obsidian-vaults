@@ -1,5 +1,7 @@
 # Internal Links (FITNESS)
-1. [[10 Min Jump Rope Workout]]
+1. [[Jamp Rope Schedule]]
+2. [[Personal Q&A Research 🔗]]
+3. 
 
 -------------------------
 
