@@ -1,5 +1,6 @@
 # Ignore .obsidian cache folder
 .obsidian/cache
+.obsidian
 
 #Trash
 #.trash/
