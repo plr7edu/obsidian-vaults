@@ -1,5 +1,6 @@
 {
   "interfaceFontFamily": "Open Sans",
   "baseFontSize": 18,
-  "cssTheme": ""
+  "cssTheme": "",
+  "accentColor": ""
 }
