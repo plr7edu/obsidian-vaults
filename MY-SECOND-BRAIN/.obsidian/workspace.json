@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB DEVELOPMENT/Git/Gitignore.md",
+                "file": "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 360.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB DEVELOPMENT/Git/Gitignore.md",
+                "file": "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB DEVELOPMENT/Git/Gitignore.md"
+                "file": "1-OBSIDIAN/Obsidian-Cheat-Sheet.md"
               }
             }
           },
@@ -129,13 +129,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 301.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "WEB DEVELOPMENT/Git/Gitignore.md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.2 - CSS Properties.md",
     "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md",
     "HEALTH & FITNESS/Jamp Rope Schedule.md",
@@ -144,7 +145,6 @@
     "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
     "HEALTH & FITNESS/Jump Rope/10 Min Jump Rope Workout.md",
     "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.1 - How to add CSS (Cascading Style Sheets).md",
-    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3 - CSS 🔗.md",
-    "LINUX/Arch Install Guide/12 - Select the mirrors.md"
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3 - CSS 🔗.md"
   ]
 }
