@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "c40933625db55dee",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd657f2a2c0d41aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MY-SECOND-BRAIN/Web Development/GIT/4 - Convert local folder to a git Repository.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a786aca1ed260345",
+    "type": "split",
+    "children": [
+      {
+        "id": "edbfc63741e1756f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb3a8cf2cbee7b5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca39e2c908ba026d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411
+  },
+  "right": {
+    "id": "b005b81037844825",
+    "type": "split",
+    "children": [
+      {
+        "id": "e332d4a2c179efd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9756543b327be7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MY-SECOND-BRAIN/Web Development/GIT/4 - Convert local folder to a git Repository.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd657f2a2c0d41aa",
+  "lastOpenFiles": [
+    "MY-SECOND-BRAIN/Web Development/GIT/4 - Convert local folder to a git Repository.md",
+    "MY-SECOND-BRAIN/Web Development/GIT/Git 🔗.md",
+    "MY-SECOND-BRAIN/Web Development/GIT/1 - What is Git.md",
+    "MY-SECOND-BRAIN/Web Development/Web Development 🔗.md",
+    "MY-SECOND-BRAIN/000 LIFE (ALL START HERE).md",
+    "MY-SECOND-BRAIN/Web Development/GIT/Test.md"
+  ]
+}
