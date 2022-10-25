@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/How to clean Arch Linux/1 - Clean package Cache.md",
+                "file": "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/How to clean Arch Linux/1 - Clean package Cache.md",
+                "file": "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/How to clean Arch Linux/1 - Clean package Cache.md"
+                "file": "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "LINUX/Checksums/Checksums.md",
+    "LINUX/Checksums/MD5  (Message-Digest Algorithm).md",
+    "LINUX/Checksums/PGP - (Pretty Good Privacy).md",
+    "LINUX/Checksums/SHA - 1 (Secure Hash Algorithm).md",
+    "LINUX/How to clean Arch Linux/1 - Clean package Cache.md",
     "LINUX/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
     "LINUX/How to clean Arch Linux/6  - Find the largest files and directories.md",
     "LINUX/How to clean Arch Linux/7 - Disk cleaning programs.md",
     "LINUX/How to clean Arch Linux/8 - Clean systemd journal.md",
-    "LINUX/How to clean Arch Linux/4 - Remove old config files.md",
-    "LINUX/How to clean Arch Linux/5 - Remove duplicates, empty files, empty directories and broken symlinks.md",
-    "LINUX/How to clean Arch Linux/3 - Clean the Cache in your home directory.md",
-    "LINUX/How to clean Arch Linux/1 - Clean package Cache.md",
-    "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
-    "LINUX/PATH in Linux/1 - What is $PATH Environmental Variable.md"
+    "LINUX/How to clean Arch Linux/4 - Remove old config files.md"
   ]
 }
