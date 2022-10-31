@@ -131,9 +131,6 @@
     "direction": "horizontal",
     "width": 301.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
     "LINUX/Checksums/Checksums.md",
