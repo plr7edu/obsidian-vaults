@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md",
+                "file": "WEB DEVELOPMENT/Git/2 - Git Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md",
+                "file": "WEB DEVELOPMENT/Git/2 - Git Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md"
+                "file": "WEB DEVELOPMENT/Git/2 - Git Commands.md"
               }
             }
           },
@@ -133,6 +133,8 @@
   },
   "active": "443013223a3cd4c9",
   "lastOpenFiles": [
+    "WEB DEVELOPMENT/Git/1 - What is Git.md",
+    "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md",
     "LINUX/Checksums/Checksums.md",
     "LINUX/Checksums/MD5  (Message-Digest Algorithm).md",
     "LINUX/Checksums/PGP - (Pretty Good Privacy).md",
@@ -140,8 +142,6 @@
     "LINUX/How to clean Arch Linux/1 - Clean package Cache.md",
     "LINUX/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
     "LINUX/How to clean Arch Linux/6  - Find the largest files and directories.md",
-    "LINUX/How to clean Arch Linux/7 - Disk cleaning programs.md",
-    "LINUX/How to clean Arch Linux/8 - Clean systemd journal.md",
-    "LINUX/How to clean Arch Linux/4 - Remove old config files.md"
+    "LINUX/How to clean Arch Linux/7 - Disk cleaning programs.md"
   ]
 }
