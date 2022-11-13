@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "443013223a3cd4c9",
+            "id": "4f112774c0051c98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WEB DEVELOPMENT/Git/2 - Git Commands.md",
+                "file": "LINUX/Virt-manger/Virt-manger 🔗.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WEB DEVELOPMENT/Git/2 - Git Commands.md",
+                "file": "LINUX/Virt-manger/Virt-manger 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WEB DEVELOPMENT/Git/2 - Git Commands.md"
+                "file": "LINUX/Virt-manger/Virt-manger 🔗.md"
               }
             }
           },
@@ -129,19 +129,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 249.5
   },
-  "active": "443013223a3cd4c9",
+  "active": "4f112774c0051c98",
   "lastOpenFiles": [
+    "LINUX/Virt-manger/3 - Automout share directory in KVM.md",
+    "LINUX/LINUX 🔗.md",
+    "LINUX/Virt-manger/2 - Share directory between host machine & KVM.md",
+    "LINUX/Virt-manger/1 - KVM Installation.md",
+    "LINUX/Virt-manger/Virt-manger 🔗.md",
+    "WEB DEVELOPMENT/Git/2 - Git Commands.md",
+    "LINUX/Manage Dot Files/Manage Dot Files 🔗.md",
+    "LINUX/Linux Journey/Linux Journey 🔗.md",
     "WEB DEVELOPMENT/Git/1 - What is Git.md",
-    "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md",
-    "LINUX/Checksums/Checksums.md",
-    "LINUX/Checksums/MD5  (Message-Digest Algorithm).md",
-    "LINUX/Checksums/PGP - (Pretty Good Privacy).md",
-    "LINUX/Checksums/SHA - 1 (Secure Hash Algorithm).md",
-    "LINUX/How to clean Arch Linux/1 - Clean package Cache.md",
-    "LINUX/How to clean Arch Linux/2 - Remove unused packages (Orphans).md",
-    "LINUX/How to clean Arch Linux/6  - Find the largest files and directories.md",
-    "LINUX/How to clean Arch Linux/7 - Disk cleaning programs.md"
+    "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md"
   ]
 }
