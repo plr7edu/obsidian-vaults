@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Virt-manger/Virt-manger 🔗.md",
+                "file": "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Virt-manger/Virt-manger 🔗.md",
+                "file": "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/Virt-manger/Virt-manger 🔗.md"
+                "file": "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md"
               }
             }
           },
@@ -133,15 +133,15 @@
   },
   "active": "4f112774c0051c98",
   "lastOpenFiles": [
-    "LINUX/Virt-manger/3 - Automout share directory in KVM.md",
+    "LINUX/Virt-manger/Virt-manger 🔗.md",
     "LINUX/LINUX 🔗.md",
+    "LINUX/PATH in Linux/PATH in Linux 🔗.md",
+    "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
+    "LINUX/Virt-manger/3 - Automout share directory in KVM.md",
     "LINUX/Virt-manger/2 - Share directory between host machine & KVM.md",
     "LINUX/Virt-manger/1 - KVM Installation.md",
-    "LINUX/Virt-manger/Virt-manger 🔗.md",
     "WEB DEVELOPMENT/Git/2 - Git Commands.md",
     "LINUX/Manage Dot Files/Manage Dot Files 🔗.md",
-    "LINUX/Linux Journey/Linux Journey 🔗.md",
-    "WEB DEVELOPMENT/Git/1 - What is Git.md",
-    "LINUX/Arch Install Guide/1 - Pre Installation/Verifying the Arch Linux ISO file using PGP.md"
+    "LINUX/Linux Journey/Linux Journey 🔗.md"
   ]
 }
