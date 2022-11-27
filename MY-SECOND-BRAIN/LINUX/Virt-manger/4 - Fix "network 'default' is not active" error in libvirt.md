@@ -17,7 +17,7 @@ sudo virsh net-list --all
 
 Here we show how to solve the `default` network stuck in `inactive` state.
 
-## Solution One : -
+## Solution  : -
 
 Your first attempt can be simply trying to start the network with `virsh`.
 
@@ -26,3 +26,8 @@ Your first attempt can be simply trying to start the network with `virsh`.
 sudo virsh net-start default
 ```
 
+To have the network automatically start up in future run:
+
+```bash
+sudo virsh net-autostart --network default
+```
