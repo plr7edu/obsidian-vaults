@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
+                "file": "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
+                "file": "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md"
+                "file": "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md"
               }
             }
           },
@@ -133,15 +133,15 @@
   },
   "active": "4f112774c0051c98",
   "lastOpenFiles": [
+    "LINUX/Manage Dot Files/4  - Create symbolic links to the original config file locations  (Manually).md",
+    "LINUX/Manage Dot Files/5  - Setup Git for using GitLab (Including SSH Key).md",
+    "LINUX/Manage Dot Files/6  - Introduction of SSH Key Types.md",
+    "LINUX/Manage Dot Files/7 - Dotfiles Repository.md",
+    "LINUX/Manage Dot Files/3 - How to manage dotfiles.md",
+    "LINUX/Manage Dot Files/1  - The basics of dotfiles.md",
+    "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
     "LINUX/Virt-manger/Virt-manger 🔗.md",
     "LINUX/Arch Install Guide/4 - Update the system.md",
-    "LINUX/Arch Install Guide/3 - Connect to the Internet.md",
-    "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
-    "LINUX/LINUX 🔗.md",
-    "LINUX/PATH in Linux/PATH in Linux 🔗.md",
-    "LINUX/Virt-manger/3 - Automout share directory in KVM.md",
-    "LINUX/Virt-manger/2 - Share directory between host machine & KVM.md",
-    "LINUX/Virt-manger/1 - KVM Installation.md",
-    "WEB DEVELOPMENT/Git/2 - Git Commands.md"
+    "LINUX/Arch Install Guide/3 - Connect to the Internet.md"
   ]
 }
