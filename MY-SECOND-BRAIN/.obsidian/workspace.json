@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md",
+                "file": "000 LIFE (ALL START HERE).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md",
+                "file": "000 LIFE (ALL START HERE).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md"
+                "file": "000 LIFE (ALL START HERE).md"
               }
             }
           },
@@ -144,6 +144,7 @@
   },
   "active": "4f112774c0051c98",
   "lastOpenFiles": [
+    "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md",
     "LINUX/Manage Dot Files/4  - Create symbolic links to the original config file locations  (Manually).md",
     "LINUX/Manage Dot Files/5  - Setup Git for using GitLab (Including SSH Key).md",
     "LINUX/Manage Dot Files/6  - Introduction of SSH Key Types.md",
@@ -152,7 +153,6 @@
     "LINUX/Manage Dot Files/1  - The basics of dotfiles.md",
     "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
     "LINUX/Virt-manger/Virt-manger 🔗.md",
-    "LINUX/Arch Install Guide/4 - Update the system.md",
-    "LINUX/Arch Install Guide/3 - Connect to the Internet.md"
+    "LINUX/Arch Install Guide/4 - Update the system.md"
   ]
 }
