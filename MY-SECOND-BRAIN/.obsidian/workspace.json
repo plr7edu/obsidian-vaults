@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51bcfaa92c6de7d8",
+        "id": "c69886b4b32cc33f",
         "type": "tabs",
         "children": [
           {
-            "id": "4f112774c0051c98",
+            "id": "5bba4e2aaead0658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 LIFE (ALL START HERE).md",
+                "file": "HEALTH & FITNESS/Jamp Rope Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 LIFE (ALL START HERE).md",
+                "file": "HEALTH & FITNESS/Jamp Rope Schedule.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 LIFE (ALL START HERE).md"
+                "file": "HEALTH & FITNESS/Jamp Rope Schedule.md"
               }
             }
           },
@@ -142,17 +142,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4f112774c0051c98",
+  "active": "5bba4e2aaead0658",
   "lastOpenFiles": [
-    "LINUX/Manage Dot Files/10  - Add,Commit & Push to gitlab.md",
-    "LINUX/Manage Dot Files/4  - Create symbolic links to the original config file locations  (Manually).md",
-    "LINUX/Manage Dot Files/5  - Setup Git for using GitLab (Including SSH Key).md",
-    "LINUX/Manage Dot Files/6  - Introduction of SSH Key Types.md",
-    "LINUX/Manage Dot Files/7 - Dotfiles Repository.md",
-    "LINUX/Manage Dot Files/3 - How to manage dotfiles.md",
-    "LINUX/Manage Dot Files/1  - The basics of dotfiles.md",
-    "LINUX/Virt-manger/4 - Fix \"network 'default' is not active\" error in libvirt.md",
-    "LINUX/Virt-manger/Virt-manger 🔗.md",
-    "LINUX/Arch Install Guide/4 - Update the system.md"
+    "HEALTH & FITNESS/HEALTH & FITNESS 🔗.md",
+    "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md",
+    "HEALTH & FITNESS/Jamp Rope Schedule.md",
+    "WEB DEVELOPMENT/Git/4 - Convert local folder to a git Repository.md",
+    "WEB DEVELOPMENT/Git/Gitignore.md",
+    "WEB DEVELOPMENT/Git/3 - Adding your SSH key to the ssh-agent.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3.1 - How to add CSS (Cascading Style Sheets).md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/3 - CSS/3 - CSS 🔗.md",
+    "WEB DEVELOPMENT/The Complete Web Developer - Andrei Neagoie/1 - How the internet works.md",
+    "NETWORKING/NETWORKING🔗.md"
   ]
 }
