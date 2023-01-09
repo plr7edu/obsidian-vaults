@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH/Learning English From Zero to Hero in English Language.md",
+                "file": "ENGLISH/Learning English From Zero to Hero in English Language 🔗.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 431.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGLISH/Learning English From Zero to Hero in English Language.md",
+                "file": "ENGLISH/Learning English From Zero to Hero in English Language 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGLISH/Learning English From Zero to Hero in English Language.md"
+                "file": "ENGLISH/Learning English From Zero to Hero in English Language 🔗.md"
               }
             }
           },
@@ -144,15 +144,15 @@
   },
   "active": "5bba4e2aaead0658",
   "lastOpenFiles": [
-    "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
-    "ENGLISH/Learning English From Zero to Hero in English Language.md",
     "ENGLISH/ENGLISH 🔗.md",
-    "ENGLISH/Learning English.md",
+    "ENGLISH/Learning English From Zero to Hero in English Language 🔗.md",
+    "ELECTRONICS/ELECTRONICS🔗.md",
+    "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
+    "000 LIFE (ALL START HERE).md",
     "LINUX/Virt-manger/4 - Fix network default is not active error in libvirt.md",
     "NETWORKING/NETWORKING🔗.md",
     "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md",
     "HEALTH & FITNESS/Jamp Rope Schedule.md",
-    "HEALTH & FITNESS/HEALTH & FITNESS 🔗.md",
-    "WEB DEVELOPMENT/Git/4 - Convert local folder to a git Repository.md"
+    "HEALTH & FITNESS/HEALTH & FITNESS 🔗.md"
   ]
 }

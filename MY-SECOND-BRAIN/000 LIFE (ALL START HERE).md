@@ -6,7 +6,7 @@
 4. [[WEB DEVELOPMENT🔗]]
 5. [[ANDROID 🔗]]
 6. [[NETWORKING🔗]]
-7. 
+7. [[ELECTRONICS🔗]]
 
 
 
