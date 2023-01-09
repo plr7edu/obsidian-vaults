@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:English",
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path:ELECTRONICS",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 0.351190476190476,
   "linkDistance": 161,
-  "scale": 0.20669682287983468,
-  "close": false
+  "scale": 0.4230857117953534,
+  "close": true
 }
