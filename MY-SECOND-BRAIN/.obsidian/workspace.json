@@ -11,8 +11,12 @@
             "id": "5bba4e2aaead0658",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md"
+              }
             }
           },
           {
@@ -137,15 +144,15 @@
   },
   "active": "5bba4e2aaead0658",
   "lastOpenFiles": [
+    "1-Obsidian/Obsidian-Cheat-Sheet.md",
+    "𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
+    "𝐀𝐍𝐃𝐑𝐎𝐈𝐃/𝐀𝐍𝐃𝐑𝐎𝐈𝐃 🔗.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md",
     "Learning English From Zero to Hero.md",
-    "𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
-    "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
     "𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐒/𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐒 🔗.md",
     "𝐋𝐈𝐍𝐔𝐗/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
     "𝐋𝐈𝐍𝐔𝐗/Cron.md",
-    "𝐋𝐈𝐍𝐔𝐗/𝐋𝐈𝐍𝐔𝐗 🔗.md",
-    "𝐀𝐍𝐃𝐑𝐎𝐈𝐃/𝐀𝐍𝐃𝐑𝐎𝐈𝐃 🔗.md"
+    "𝐋𝐈𝐍𝐔𝐗/𝐋𝐈𝐍𝐔𝐗 🔗.md"
   ]
 }
