@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
+                "file": "𝐋𝐈𝐍𝐔𝐗/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-OBSIDIAN/Obsidian-Cheat-Sheet.md",
+                "file": "𝐋𝐈𝐍𝐔𝐗/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-OBSIDIAN/Obsidian-Cheat-Sheet.md"
+                "file": "𝐋𝐈𝐍𝐔𝐗/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md"
               }
             }
           },
@@ -142,17 +142,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2b957ad86d13e1d8",
+  "active": "5bba4e2aaead0658",
   "lastOpenFiles": [
-    "000 LIFE (ALL START HERE).md",
-    "ENGLISH/Learning English From Zero to Hero in English Language 🔗.md",
-    "ENGLISH/ENGLISH 🔗.md",
-    "ELECTRONICS/ELECTRONICS🔗.md",
-    "WEB DEVELOPMENT/WEB DEVELOPMENT🔗.md",
-    "LINUX/Virt-manger/4 - Fix network default is not active error in libvirt.md",
-    "NETWORKING/NETWORKING🔗.md",
-    "HEALTH & FITNESS/Personal F&Q Research/Personal Q&A Research 🔗.md",
-    "HEALTH & FITNESS/Jamp Rope Schedule.md",
-    "HEALTH & FITNESS/HEALTH & FITNESS 🔗.md"
+    "𝐋𝐈𝐍𝐔𝐗/Cron.md",
+    "𝐋𝐈𝐍𝐔𝐗/𝐋𝐈𝐍𝐔𝐗 🔗.md",
+    "𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
+    "𝐀𝐍𝐃𝐑𝐎𝐈𝐃/𝐀𝐍𝐃𝐑𝐎𝐈𝐃 🔗.md",
+    "𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓/𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓 🔗.md",
+    "𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆/𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/PATH in Linux/PATH in Linux 🔗.md",
+    "𝐇𝐄𝐀𝐋𝐓𝐇 & 𝐅𝐈𝐓𝐍𝐄𝐒𝐒/𝐇𝐄𝐀𝐋𝐓𝐇 & 𝐅𝐈𝐓𝐍𝐄𝐒𝐒 🔗.md",
+    "𝐇𝐄𝐀𝐋𝐓𝐇 & 𝐅𝐈𝐓𝐍𝐄𝐒𝐒/Jamp Rope Schedule.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md"
   ]
 }

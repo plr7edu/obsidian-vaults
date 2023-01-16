@@ -1,0 +1,28 @@
+## Internal Links (Arch Install Guide)
+1. [[1 - Pre Installation🔗]]
+2. [[2 - Verify the boot mode]]
+3. [[3 - Connect to the Internet]]
+4. [[4 - Update the system]]
+5. [[5 - Partition the disks]]
+6. [[6- Format the partition]]
+7. [[7 - Create LVM partition]]
+8. [[8 - Active LVM configuration]]
+9. [[9 - Format & mount logical volumes (LVM)]]
+10. [[10 - Mount the EFI partition (UEFI)]]
+11. [[11 - Fstab]]
+12. [[12 - Select the mirrors]]
+13. [[13 - Install the base packages]]
+14. [[14 - Configure The System 🔗]]
+15. [[15 - GRUB]]
+16. [[16 - Reboot]]
+17. [[17 - Connect Internet after reboot]]
+18. [[18 - Post Install Tweaks 🔗]]
+19. [[19 - Install Desktop Environment & Fixers 🔗]]
+20. [[20 - Aur Helper]]
+21. [[22 - Adding the Windows boot option to grub]]
+22. [[23 - General Recommendations 🔗]]
+23. [[24 - Install Window Manager 🔗]]
+
+-------------------------
+
+Back = [[𝐋𝐈𝐍𝐔𝐗 🔗]]
