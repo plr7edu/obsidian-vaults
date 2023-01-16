@@ -1,79 +1,79 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:English",
+      "query": "path:𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼)",
       "color": {
         "a": 1,
-        "rgb": 5397472
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:Fitness",
+      "query": "path:𝐋𝐈𝐍𝐔𝐗",
       "color": {
         "a": 1,
-        "rgb": 13193952
+        "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Web Development\"",
+      "query": "path:𝐄𝐍𝐆𝐋𝐈𝐒𝐇",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11657298
       }
     },
     {
-      "query": "path:Linux",
+      "query": "path:𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐒",
       "color": {
         "a": 1,
-        "rgb": 15001189
+        "rgb": 397039
       }
     },
     {
-      "query": "path:Android",
+      "query": "path:\"𝐇𝐄𝐀𝐋𝐓𝐇 & 𝐅𝐈𝐓𝐍𝐄𝐒𝐒\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:NETWORKING",
+      "query": "path:𝐀𝐍𝐃𝐑𝐎𝐈𝐃",
       "color": {
         "a": 1,
-        "rgb": 14763264
+        "rgb": 5431387
       }
     },
     {
-      "query": "path: 000 LIFE (ALL START HERE)",
+      "query": "path:\"𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓\"",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:ELECTRONICS",
-      "color": {
-        "a": 1,
-        "rgb": 1114367
+        "rgb": 11621088
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.31452991452991,
-  "lineSizeMultiplier": 2.57094017094017,
-  "collapse-forces": true,
-  "centerStrength": 0.261904761904762,
-  "repelStrength": 10,
-  "linkStrength": 0.351190476190476,
-  "linkDistance": 161,
-  "scale": 0.4230857117953534,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.03151041666667,
+  "lineSizeMultiplier": 1.15911458333333,
+  "collapse-forces": false,
+  "centerStrength": 0.299479166666667,
+  "repelStrength": 9.21875,
+  "linkStrength": 0.872395833333333,
+  "linkDistance": 247,
+  "scale": 0.5060599849662782,
   "close": true
 }
