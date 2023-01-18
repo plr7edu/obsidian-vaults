@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c69886b4b32cc33f",
+        "id": "b8aec72164abdb67",
         "type": "tabs",
         "children": [
           {
-            "id": "5bba4e2aaead0658",
+            "id": "3753b7aed06a2e13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.10 - cp (Copy).md",
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 359.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.10 - cp (Copy).md",
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.10 - cp (Copy).md"
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md"
               }
             }
           },
@@ -142,17 +142,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5bba4e2aaead0658",
+  "active": "3753b7aed06a2e13",
   "lastOpenFiles": [
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.3 - cd (Change Directory).md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.12 - mkdir (Make Directory).md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.13 - rm (Remove).md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.14 - find.md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.10 - cp (Copy).md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.11 - mv (Move).md",
+    "Consonants.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/The Alphabet.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Seven reasons why your English is not Improving.md",
     "1-Obsidian/Obsidian-Cheat-Sheet.md",
     "𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
-    "𝐀𝐍𝐃𝐑𝐎𝐈𝐃/𝐀𝐍𝐃𝐑𝐎𝐈𝐃 🔗.md"
+    "𝐀𝐍𝐃𝐑𝐎𝐈𝐃/𝐀𝐍𝐃𝐑𝐎𝐈𝐃 🔗.md",
+    "Learning English From Zero to Hero.md"
   ]
 }
