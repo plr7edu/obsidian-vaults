@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼)",
@@ -74,6 +74,6 @@
   "repelStrength": 9.21875,
   "linkStrength": 0.872395833333333,
   "linkDistance": 247,
-  "scale": 1.0358492499668293,
+  "scale": 1.0358492499668337,
   "close": true
 }
