@@ -11,8 +11,12 @@
             "id": "3753b7aed06a2e13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md"
+              }
             }
           },
           {
@@ -135,23 +142,14 @@
       "random-note:Open random note": false
     }
   },
-<<<<<<< Updated upstream
   "active": "3753b7aed06a2e13",
   "lastOpenFiles": [
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Seven reasons why your English is not Improving.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
     "Consonants.md",
-=======
-  "active": "2b957ad86d13e1d8",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/The Alphabet.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md",
-<<<<<<< Updated upstream
-=======
-    "Consonants.md",
->>>>>>> Stashed changes
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Seven reasons why your English is not Improving.md",
     "1-Obsidian/Obsidian-Cheat-Sheet.md",
     "𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
     "𝐀𝐍𝐃𝐑𝐎𝐈𝐃/𝐀𝐍𝐃𝐑𝐎𝐈𝐃 🔗.md",
