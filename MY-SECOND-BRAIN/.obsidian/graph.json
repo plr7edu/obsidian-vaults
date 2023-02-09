@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼)",
+      "query": "path:000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼)",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -74,6 +74,6 @@
   "repelStrength": 9.21875,
   "linkStrength": 0.872395833333333,
   "linkDistance": 247,
-  "scale": 1.0358492499668337,
+  "scale": 0.17280653486122183,
   "close": true
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8aec72164abdb67",
+        "id": "076b41a68d265f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "3753b7aed06a2e13",
+            "id": "826caf397c98d2bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
+                "file": "1-Obsidian/Obsidian Community Plugins/3 - Footnote Shortcut Plugin.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 286.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
+                "file": "1-Obsidian/Obsidian Community Plugins/3 - Footnote Shortcut Plugin.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md"
+                "file": "1-Obsidian/Obsidian Community Plugins/3 - Footnote Shortcut Plugin.md"
               }
             }
           },
@@ -124,8 +124,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "cd36dd2bec24c847",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,20 +148,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3753b7aed06a2e13",
+  "active": "826caf397c98d2bc",
   "lastOpenFiles": [
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md",
-    "𝟘𝟘𝟘 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
-    "𝐋𝐈𝐍𝐔𝐗/Arch Install Guide/14 - Configure The System/14.6 - Localization.md",
-    "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/9  - Stow command.md",
-    "𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓/Git/2 - Git Commands.md",
-    "𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓/Git/1 - What is Git.md",
-    "𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓/Git/4 - Convert local folder to a git Repository.md",
-    "𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓/Git/3 - Adding your SSH key to the ssh-agent.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Seven reasons why your English is not Improving.md"
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "1-Obsidian/Obsidian Community Plugins/3 - Footnote Shortcut Plugin.md",
+    "1-Obsidian/Obsidian Community Plugins/2 - Advance Tables Plugin.md",
+    "1-Obsidian/Obsidian Community Plugins/1 - Obsidian Underline Plugin.md",
+    "1-Obsidian/Basic/2 - Headings and Horizontal Rules.md",
+    "1-Obsidian/Basic/10 - Embedding Content.md",
+    "1-Obsidian/Basic/9 - External Linking.md",
+    "1-Obsidian/Basic/1 - Basic Text Formatting.md",
+    "1-Obsidian/Basic/3 - Underlining text.md"
   ]
 }
