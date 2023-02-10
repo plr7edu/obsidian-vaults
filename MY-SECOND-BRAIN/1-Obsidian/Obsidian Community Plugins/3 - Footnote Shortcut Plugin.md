@@ -1,3 +1,5 @@
+#plugin 
+
 ![[171957154-4cd6b82c-729c-4b0e-b9e5-8a087f746165.gif]]
 
 ### This hotkey lets you:

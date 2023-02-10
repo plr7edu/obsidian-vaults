@@ -1,5 +1,6 @@
 ## What are Footnote ?
 
+- Footnotes are great if you want to add something to your notes without breaking the flow of your writing.
 - Footnotes are **notes indicated in your text with numbers and placed at the bottom of the page**.
 - An additional piece of information printed at the bottom of a page.
 
@@ -27,6 +28,14 @@ They make us feel good without really improving us. [^1]
 
 ---
 
+You can also insert footnotes directly into text like so: 
+
+```
+This is some text. Some More text
+This text has a foot note ^[Foot Note Text]
+```
+
+This text has a foot note ^[Foot Note Text]
 
 **Tip:** 
 
