@@ -19,13 +19,20 @@
 
 | Key          | Action                  |
 | ------------ | ----------------------- |
-| CTRL + Z     | Undo                    |
-| CTRL + C     | Copy selection          |
-| CTRL + V     | Paste                   |
-| CTRL + B     | Bold selected text      |
-| CTRL + I     | Italicize selected text |
-| CTRL + ALT + B     | Toggle blockquote       |
-| TAB          | Indent list             |
-| F2   | Edit file title           |
-| MODE + C    |    Insert callout                    |
+| ` CTRL + Z `      | Undo                    |
+| ` CTRL + C `    | Copy selection          |
+| ` CTRL + V `    | Paste                   |
+| ` CTRL + B `     | Bold selected text      |
+| ` CTRL + I `    | Italicize selected text |
+| ` CTRL + ALT + B `     | Toggle blockquote       |
+| ` TAB `          | Indent list             |
+| ` F2 `   | Edit file title           |
+| ` MODE + C `    |    Insert callout                    |
+
+
+## Templates
+
+| Key         | Action          |
+| ----------- | --------------- |
+| ` ALT + T ` | Insert Template |
 

@@ -39,7 +39,7 @@ I realize this approach may not be for everyone so I wanted to highlight some of
 
 -   As it’s simpler than Dataview[^1] you’re missing a lot of the functionality of something as powerful as Dataview. For instance you can only retrieve lists not tables.
 
-[[Plugin Search Query|Query Sample]]
+[[Plugin Notes Search Query|Query Sample]]
 
 [[4 - Obsidian Query Control Plugin]]
 

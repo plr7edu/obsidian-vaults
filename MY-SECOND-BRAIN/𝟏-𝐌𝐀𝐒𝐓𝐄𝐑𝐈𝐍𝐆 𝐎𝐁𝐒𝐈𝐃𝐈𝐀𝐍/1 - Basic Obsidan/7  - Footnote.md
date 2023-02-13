@@ -14,7 +14,7 @@ Example =
 
 ^926ed6
 
-Or, as [[Hamlet]] would say, “full of sound and fury, signifying nothing”.
+Or, as Hamlet would say, “full of sound and fury, signifying nothing”.
 
 A perfect example is the talk called “How to sound smart in your TEDx Talk”. [^2]
 
@@ -22,7 +22,7 @@ Eloquent talks trick us into thinking we learn more than we actually do.
 
 They make us feel good without really improving us. [^1]
 
-[^1]: [[Human Rites]] p80
+[^1]: Human Rites p80
 
 [^2]: https://www.youtube.com/watch?v=8S0FDjFBj8o
 
@@ -42,4 +42,4 @@ This text has a foot note ^[Foot Note Text]
 I’d highly recommend the plugin: “Footnote Shortcut” if you are going to be using
 footnotes on a regular basis.
 
-[[[3 - Footnote Shortcut Plugin]]
+[[3 - Footnote Shortcut Plugin]]
