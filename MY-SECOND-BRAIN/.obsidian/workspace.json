@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebfbf0cfb87afb40",
+            "id": "35bff278a506dab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 381.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -144,17 +144,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebfbf0cfb87afb40",
+  "active": "35bff278a506dab7",
   "lastOpenFiles": [
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Hotkeys.md",
-    "𝐋𝐈𝐍𝐔𝐗/𝐋𝐈𝐍𝐔𝐗 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/Linux Journey.canvas",
     "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
-    "Attachments/2022/Pasted image 20230213145105.png",
-    "𝐀𝐍𝐃𝐑𝐎𝐈𝐃/𝐀𝐍𝐃𝐑𝐎𝐈𝐃 🔗.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍 🔗.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/Basic Obsidian 🔗.md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch 🔗.md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Debian/Debian 🔗.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/2 - Advance Obsidian/Advance Obsidian 🔗.md"
+    "𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐒/𝐄𝐋𝐄𝐂𝐓𝐑𝐎𝐍𝐈𝐂𝐒 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/Linux Journey 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.10 - cp (Copy).md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.6 - file.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/1 - Getting Started/1.5 - Linux Window Managers.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/1 - Getting Started/1.4 - Linux Desktop Environments/1.4 - Linux Desktop Environments 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/1 - Getting Started/1.3 - Linux Distributions/1.3 - Linux Distributions 🔗.md"
   ]
 }
