@@ -41,5 +41,5 @@ I realize this approach may not be for everyone so I wanted to highlight some of
 
 [[Plugin Notes Search Query|Query Sample]]
 
-[[4 - Obsidian Query Control Plugin]]
+[[4 - Obsidian Query Control Plugin (Not using yet )]]
 

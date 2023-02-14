@@ -8,7 +8,7 @@
 1. [[1 - Obsidian Underline Plugin]]
 2. [[2 - Advance Tables Plugin]]
 3. [[3 - Footnote Shortcut Plugin]]
-4. [[4 - Obsidian Query Control Plugin]]
+4. [[4 - Obsidian Query Control Plugin (Not using yet )]]
 5. 
 
 

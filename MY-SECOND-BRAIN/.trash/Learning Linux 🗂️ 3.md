@@ -26,6 +26,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-card-insertion-method":"prepend"}
+{"kanban-plugin":"basic","new-card-insertion-method":"prepend","show-checkboxes":true}
 ```
 %%
