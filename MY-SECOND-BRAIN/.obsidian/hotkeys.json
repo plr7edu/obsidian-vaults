@@ -16,14 +16,6 @@
       "key": "B"
     }
   ],
-  "editor:set-heading": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
   "editor:toggle-highlight": [
     {
       "modifiers": [
@@ -63,6 +55,24 @@
         "Alt"
       ],
       "key": "T"
+    }
+  ],
+  "obsidian-underline:toggle-link-heading": [],
+  "obsidian-underline:toggle-link-block": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
     }
   ]
 }
