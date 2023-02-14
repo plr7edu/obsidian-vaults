@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d13bd3196716ede5",
+        "id": "1971c87a3a0d967a",
         "type": "tabs",
         "children": [
           {
-            "id": "f1318a4d59d7887e",
+            "id": "ecc93194ee7f6bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Plugin Notes Search Query.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d92f6daef344bd65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/5 - Obsidian Kanban Plugin (Not Installed).md",
+                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍 🔗.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 335.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Plugin Notes Search Query.md",
+                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Plugin Notes Search Query.md"
+                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍 🔗.md"
               }
             }
           },
@@ -156,17 +144,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1318a4d59d7887e",
+  "active": "ecc93194ee7f6bd3",
   "lastOpenFiles": [
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/5 - Obsidian Kanban Plugin (Not Installed).md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Plugin Notes Search Query.md",
-    "𝐋𝐈𝐍𝐔𝐗/𝐋𝐈𝐍𝐔𝐗 🔗.md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/Linux Journey 🔗.md",
-    "𝐋𝐈𝐍𝐔𝐗/Learning Linux 🗂️.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/4 - Obsidian Query Control Plugin (Not Installed).md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/4 - Obsidian Query Control Plugin (Not using yet ).md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/Linux Journey.canvas",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Journey/2 - Command Line/2.1 - The Shell.md",
-    "Learning Linux 🗂️.md"
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🗂️.md",
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/2 - Advance Obsidian/1 - Queries.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/The Alphabet.md",
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/10 - Embedding Content.md",
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/11 - Manage Attachments.md",
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/2 - Advance Obsidian/Advance Obsidian 🔗.md",
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/MASTERING OBSIDIAN KANBAN 🗂️.md",
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/6 - Tables.md",
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/Basic Obsidian 🔗.md"
   ]
 }
