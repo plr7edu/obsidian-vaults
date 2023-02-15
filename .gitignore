@@ -7,3 +7,5 @@
 #Macos
 #DS_Store
 
+# Obsidan Workspaces
+.obsidian/workspaces.json
