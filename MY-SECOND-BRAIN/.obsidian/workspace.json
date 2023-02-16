@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e035698a405b60f0",
+        "id": "f0667ad208c3ef56",
         "type": "tabs",
         "children": [
           {
-            "id": "044430e01555099e",
+            "id": "b7c883ad24eba12d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md",
+                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 349.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md",
+                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md"
+                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md"
               }
             }
           },
@@ -145,17 +145,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "044430e01555099e",
+  "active": "b7c883ad24eba12d",
   "lastOpenFiles": [
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/The Alphabet.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English Kanban.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/1 - What is a Noun.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/Nouns 🔗.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/2 - Kinds of Nouns.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/Proper Nouns.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md",
-    "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
-    "𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓/Git/1 - What is Git.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🗂️.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Seven reasons why your English is not Improving.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍 🔗.md"
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Untitled.md"
   ]
 }
