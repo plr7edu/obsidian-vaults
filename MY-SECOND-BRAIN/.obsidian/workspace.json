@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1971c87a3a0d967a",
+        "id": "e035698a405b60f0",
         "type": "tabs",
         "children": [
           {
-            "id": "ecc93194ee7f6bd3",
+            "id": "044430e01555099e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md"
+                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md"
               }
             }
           },
@@ -145,17 +145,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecc93194ee7f6bd3",
+  "active": "044430e01555099e",
   "lastOpenFiles": [
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/The Alphabet.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Word Classes.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English From Zero to Hero 🔗.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md",
+    "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
     "𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓/Git/1 - What is Git.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🗂️.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Seven reasons why your English is not Improving.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/𝐄𝐍𝐆𝐋𝐈𝐒𝐇 🔗.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍 🔗.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/2 - Advance Obsidian/1 - Queries.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Vowels and Consonants.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/The Alphabet.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/10 - Embedding Content.md",
-    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/11 - Manage Attachments.md"
+    "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍 🔗.md"
   ]
 }
