@@ -21,9 +21,11 @@
             "id": "ef6e79004757ef2a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English Kanban 🚧.md"
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/17 - Connect Internet after reboot.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English Kanban 🚧.md",
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/17 - Connect Internet after reboot.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English Kanban 🚧.md"
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/17 - Connect Internet after reboot.md"
               }
             }
           },
@@ -163,11 +165,14 @@
   },
   "active": "ef6e79004757ef2a",
   "lastOpenFiles": [
+    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/15 - GRUB.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/13 - Install the base packages.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/3 - Connect to the Internet.md",
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English Kanban 🚧.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🚧.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Plugin Notes Search Query.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/6 - Obsidian Outliner Plugin.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Obsidian Community Plugins 🔗.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Learning English Kanban 🚧.md",
     "Untitled.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/2 - Kinds of Nouns.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/Nouns 🔗.md",
