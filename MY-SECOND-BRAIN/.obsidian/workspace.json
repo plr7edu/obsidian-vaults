@@ -11,8 +11,12 @@
             "id": "a500032c91ba1974",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "swap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md"
+              }
             }
           },
           {
@@ -139,6 +147,7 @@
   },
   "active": "a500032c91ba1974",
   "lastOpenFiles": [
+    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18 - Post Install Tweaks 🔗.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🚧.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/17 - Connect Internet after reboot.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/15 - GRUB.md",
