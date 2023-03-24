@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
+                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
+                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md"
+                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md"
               }
             }
           },
@@ -147,6 +146,7 @@
   },
   "active": "a500032c91ba1974",
   "lastOpenFiles": [
+    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18 - Post Install Tweaks 🔗.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🚧.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/17 - Connect Internet after reboot.md",
