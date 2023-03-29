@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/1 - Tmux - Default Settings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c8d08ac2b7b14f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b0ee67f61dd9992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/1 - Tmux - Default Settings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 299.5
   },
   "right": {
     "id": "47fb36a41eb656ca",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md"
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md"
               }
             }
           },
@@ -126,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -144,8 +169,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a500032c91ba1974",
+  "active": "8c8d08ac2b7b14f8",
   "lastOpenFiles": [
+    "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/1 - Tmux - Default Settings.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/Tmux (Terminal Multiplexer) 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/2 - Tmux - Window.md",
+    "Tools/Font Generator.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)",
+    "Attachments/2023-03-29_13-46 1.png",
+    "Attachments/2023-03-29_13-46.png",
+    "Attachments/2023-03-29_13-40 1.png",
+    "Attachments/2023-03-29_13-40.png",
+    "Attachments/2023-03-29_13-36.png",
+    "Attachments/2023-03-29_13-33_1.png",
+    "Attachments/2023-03-29_13-33.png",
+    "Attachments/2023-03-29_13-31.png",
+    "Attachments/2023-03-29_13-30.png",
+    "Attachments/2023-03-29_13-26.png",
+    "𝐋𝐈𝐍𝐔𝐗/𝐋𝐈𝐍𝐔𝐗 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Redhat/Redhat 🔗.md",
+    "𝐋𝐈𝐍𝐔𝐗/Linux Tools",
+    "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18 - Post Install Tweaks 🔗.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🚧.md",
@@ -157,10 +202,8 @@
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Plugin Notes Search Query.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/6 - Obsidian Outliner Plugin.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Community Plugins/Obsidian Community Plugins 🔗.md",
-    "Untitled.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/2 - Kinds of Nouns.md",
     "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/Nouns 🔗.md",
-    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/Proper Nouns.md",
-    "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md"
+    "𝐄𝐍𝐆𝐋𝐈𝐒𝐇/Nouns/Proper Nouns.md"
   ]
 }
