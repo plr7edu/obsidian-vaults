@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a500032c91ba1974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/1 - Tmux - Default Settings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c8d08ac2b7b14f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0b0ee67f61dd9992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/1 - Tmux - Default Settings.md",
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Debian/Debian 🔗.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md",
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Debian/Debian 🔗.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md"
+                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Debian/Debian 🔗.md"
               }
             }
           },
@@ -169,7 +144,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c8d08ac2b7b14f8",
+  "active": "0b0ee67f61dd9992",
   "lastOpenFiles": [
     "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/1 - Tmux - Default Settings.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/Tmux (Terminal Multiplexer) 🔗.md",
