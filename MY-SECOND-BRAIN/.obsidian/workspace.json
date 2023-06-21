@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "881a18fcb5c40c59",
+        "id": "deca033239f14b18",
         "type": "tabs",
         "children": [
           {
-            "id": "47fb6087fa2f88c7",
+            "id": "81d41b0b8b6f530a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/1 - Basic Text Formatting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/1 - Basic Text Formatting.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/1 - Basic Text Formatting.md"
+              }
             }
           },
           {
@@ -145,8 +152,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bb748eaa5ecca9c",
+  "active": "81d41b0b8b6f530a",
   "lastOpenFiles": [
+    "Tools/Font Generator.md",
     "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/9  - Stow command.md",
     "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/6  - Introduction of SSH Key Types.md",
     "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/5  - Setup Git for using GitLab (Including SSH Key).md",
@@ -155,7 +163,6 @@
     "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/Tmux (Terminal Multiplexer) 🔗.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Linux Tools 🔗.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)/2 - Tmux - Window.md",
-    "Tools/Font Generator.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Tools/Tmux (Terminal Multiplexer)",
     "Attachments/2023-03-29_13-46 1.png",
     "Attachments/2023-03-29_13-46.png",
