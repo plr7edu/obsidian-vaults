@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +152,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81d41b0b8b6f530a",
+  "active": "2b957ad86d13e1d8",
   "lastOpenFiles": [
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/1 - Basic Text Formatting.md",
     "Tools/Font Generator.md",
