@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "deca033239f14b18",
+        "id": "c5142ee92162dc0f",
         "type": "tabs",
         "children": [
           {
-            "id": "81d41b0b8b6f530a",
+            "id": "1834b05ac4c33193",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,8 +145,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2b957ad86d13e1d8",
+  "active": "1834b05ac4c33193",
   "lastOpenFiles": [
+    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/1 - Basic Obsidan/1 - Basic Text Formatting.md",
     "Tools/Font Generator.md",
     "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/9  - Stow command.md",
@@ -179,7 +173,6 @@
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Redhat/Redhat 🔗.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Tools",
     "000 𝕃𝕀𝔽𝔼 (𝔸𝕃𝕃 𝕊𝕋𝔸ℝ𝕋 ℍ𝔼ℝ𝔼).md",
-    "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18.1 - Activating Swap File.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/18 - Post Install Tweaks/18 - Post Install Tweaks 🔗.md",
     "𝟏-𝐌𝐀𝐒𝐓𝐄𝐑𝐈𝐍𝐆 𝐎𝐁𝐒𝐈𝐃𝐈𝐀𝐍/Obsidian Mastering Kanban 🚧.md",
     "𝐋𝐈𝐍𝐔𝐗/Linux Families/Arch/Arch Install Guide/17 - Connect Internet after reboot.md",
