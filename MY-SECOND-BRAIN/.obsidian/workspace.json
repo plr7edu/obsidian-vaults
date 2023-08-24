@@ -11,8 +11,12 @@
             "id": "1834b05ac4c33193",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/6  - Introduction of SSH Key Types.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/6  - Introduction of SSH Key Types.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "𝐋𝐈𝐍𝐔𝐗/Manage Dot Files/6  - Introduction of SSH Key Types.md"
+              }
             }
           },
           {
